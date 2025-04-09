@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DepartamentoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-04-08T03:11:14" hostname="DESKTOP-IV1QJTE" time="0.03">
+  <properties/>
+  <testcase name="testDatosBasicosDepartamento()" classname="DepartamentoTest" time="0.021"/>
+  <testcase name="testEliminarEmpleado()" classname="DepartamentoTest" time="0.001"/>
+  <testcase name="testEliminarEmpleadoNoExistente()" classname="DepartamentoTest" time="0.002"/>
+  <testcase name="testAgregarEmpleado()" classname="DepartamentoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

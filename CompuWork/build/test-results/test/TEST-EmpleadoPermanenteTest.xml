@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmpleadoPermanenteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-04-08T03:11:14" hostname="DESKTOP-IV1QJTE" time="0.006">
+  <properties/>
+  <testcase name="testCambiarDepartamentoInvalido()" classname="EmpleadoPermanenteTest" time="0.004"/>
+  <testcase name="testCambiarDepartamentoValido()" classname="EmpleadoPermanenteTest" time="0.001"/>
+  <system-out><![CDATA[El nuevo departamento no puede ser nulo o vacÃ­o
+El nuevo departamento no puede ser nulo o vacÃ­o
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
